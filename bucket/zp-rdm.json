@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/Cearl-gzy/zp-rdm/releases/download/v1.11.0/zp-rdm.exe",
-      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "hash": "552b2f45cf97ba0f3cb0b8d48108263eb44a3892aa64ad94e5d9ad1148019090"
     }
   },
   "bin": "zp-rdm.exe",
