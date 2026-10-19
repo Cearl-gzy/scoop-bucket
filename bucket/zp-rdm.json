@@ -1,12 +1,12 @@
 {
-  "version": "1.14.0",
+  "version": "1.14.1",
   "description": "Lightweight, elegant Redis desktop manager",
   "homepage": "https://github.com/Cearl-gzy/zp-rdm",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Cearl-gzy/zp-rdm/releases/download/v1.14.0/zp-rdm.exe",
-      "hash": "8a3a1c0382591a92a0b5d1e50dcb1d5a3470844cb486f635632e7fbaa2fea417"
+      "url": "https://github.com/Cearl-gzy/zp-rdm/releases/download/v1.14.1/zp-rdm.exe",
+      "hash": "75e77120b12a13a26e19fe3cea262d9974751dba2cc4f9788c5161375ff46b7c"
     }
   },
   "bin": "zp-rdm.exe",
